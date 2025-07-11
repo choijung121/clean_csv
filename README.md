@@ -26,7 +26,7 @@ csv-cleaner/
 
 # 🚀 Run Locally (during development)
 ```
-python3 csv_cleaner.py
+python3 clean.py
 ```
 Make sure you have pandas and tkinterdnd2 installed:
 ```
