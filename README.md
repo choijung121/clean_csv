@@ -26,7 +26,7 @@ csv-cleaner/
 
 # 🚀 Run Locally (during development)
 ```
-python csv_cleaner.py
+python3 csv_cleaner.py
 ```
 Make sure you have pandas and tkinterdnd2 installed:
 ```
@@ -43,7 +43,7 @@ pip install pandas tkinterdnd2 py2app
 ```
 ✅ 2. Build the app
 ```
-python setup.py py2app
+python3 setup.py py2app
 ```
 Your .app will be in the dist/ folder
 You can now double-click to launch the app like a native macOS app
