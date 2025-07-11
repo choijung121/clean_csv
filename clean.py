@@ -89,7 +89,7 @@ def on_drop(event):
 
 # Set up the GUI
 root = TkinterDnD.Tk()
-root.title("AMEX CSV Cleaner")
+root.title("CSV Cleaner")
 root.geometry("420x350")
 
 output_name_label = tk.Label(root, text="Save File as... (no .CSV): ").pack(pady=(10, 5))
