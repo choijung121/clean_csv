@@ -13,6 +13,9 @@ A simple macOS-friendly GUI app to clean up .csv credit card statements:
 - Press a button to clean — your file is saved instantly
 - No command line needed after building the app
 
+<img width="415" height="377" alt="Screenshot 2025-07-10 at 11 17 42 PM" src="https://github.com/user-attachments/assets/f4e5f055-4487-4a70-aaae-f29fa8e86f11" />
+
+
 # 📁 Folder Structure
 ```
 csv-cleaner/
